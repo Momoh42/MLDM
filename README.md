@@ -9,10 +9,10 @@ This project focuses on discovering Partial Differential Equations (PDEs) that d
 
 ## Authors
 
-- Erick Gomez Milan
-- Jankovic Mohamed
-- Moujahed Hedi
-- Zeghidi
+- Erick Gomez 
+- Milan Jankovic
+- Mohamed Moudjahed
+- Hedi Zeghidi
 
 ## Files
 
