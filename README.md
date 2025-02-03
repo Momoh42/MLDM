@@ -23,4 +23,4 @@ This project focuses on discovering Partial Differential Equations (PDEs) that d
 - `square_align_parallel.py`: Parallelized version of the square alignment method.
 - `square_align_synthetic_data.py`: Square alignment applied to synthetic data.
 - `PDE_FIND.py`: Main script for PDE discovery using sparse regression.
-- `PDE_MLDM.ipynb`: Jupyter Notebook integrating all Python files for comprehensive analysis.
+- `PDE_MLDM.ipynb`: Jupyter Notebook integrating all Python files.
